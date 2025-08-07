@@ -1,6 +1,6 @@
 public class Names {
 	public static void main(String[] Args) {
-		System.out.println("This group consists of: Inam & Tally");
+		System.out.println("This group consists of: Inam & Talal");
 		// Put your signature function on the below line!
 		PrintHarrisSig();
 		// Put your signature function on the above line!
